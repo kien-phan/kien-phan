@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm kien</h1>
 <h3 align="center">Reactjs dev, aim to fullstack developer</h3>
+<image align="right" alt="memelife" width="400" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg" />
 
 - 🔭 I’m currently working on [Reactjs, android kotlin, Nodejs Express](https://github.com/kien-phan/ArcoDeisgnLearn/tree/UserManageScreen)
 
@@ -18,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/bietbomaylaaiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bietbomaylaaiko" height="30" width="40" /></a>
-<a href="https://fb.com/kien phan" target="blank"><img align="center" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg" alt="kien phan" height="30" width="40" /></a>
+<a href="https://fb.com/kien phan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kien phan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
