@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Reactjs, android kotlin, Nodejs Express**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kien-phan](https://github.com/kien-phan)
+- 👨‍💻 All of my projects are not available at [https://github.com/kien-phan](https://github.com/kien-phan)
 
 - 💬 Ask me about **Reactjs, android kotlin, Nodejs Express**
 
